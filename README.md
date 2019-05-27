@@ -4,9 +4,9 @@ Este repositório se destina ao estudo de testes com Selenium utilizando a IDE e
 
 #### O que é necessário?
 
-+ [IDE Eclipse]
-+ [Selenium]
-+ [Gecko Driver]
+- [x] IDE Eclipse
+- [x] Selenium
+- [x] Gecko Driver
 
 #### Configurando o eclipse
 
